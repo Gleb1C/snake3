@@ -1,0 +1,15 @@
+E:\Projekt\snake3\Snake3\Snake3\bin\Debug\net6.0\Snake3.exe
+E:\Projekt\snake3\Snake3\Snake3\bin\Debug\net6.0\Snake3.deps.json
+E:\Projekt\snake3\Snake3\Snake3\bin\Debug\net6.0\Snake3.runtimeconfig.json
+E:\Projekt\snake3\Snake3\Snake3\bin\Debug\net6.0\Snake3.dll
+E:\Projekt\snake3\Snake3\Snake3\bin\Debug\net6.0\ref\Snake3.dll
+E:\Projekt\snake3\Snake3\Snake3\bin\Debug\net6.0\Snake3.pdb
+E:\Projekt\snake3\Snake3\Snake3\obj\Debug\net6.0\Snake3.csproj.AssemblyReference.cache
+E:\Projekt\snake3\Snake3\Snake3\obj\Debug\net6.0\Snake3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekt\snake3\Snake3\Snake3\obj\Debug\net6.0\Snake3.AssemblyInfoInputs.cache
+E:\Projekt\snake3\Snake3\Snake3\obj\Debug\net6.0\Snake3.AssemblyInfo.cs
+E:\Projekt\snake3\Snake3\Snake3\obj\Debug\net6.0\Snake3.csproj.CoreCompileInputs.cache
+E:\Projekt\snake3\Snake3\Snake3\obj\Debug\net6.0\Snake3.dll
+E:\Projekt\snake3\Snake3\Snake3\obj\Debug\net6.0\ref\Snake3.dll
+E:\Projekt\snake3\Snake3\Snake3\obj\Debug\net6.0\Snake3.pdb
+E:\Projekt\snake3\Snake3\Snake3\obj\Debug\net6.0\Snake3.genruntimeconfig.cache
